@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0952C4C-D48D-4B96-97B8-D1AFA36CCF6B}|WpfApp1.csproj|c:\\users\\st310-02\\documents\\yalymovpetr_pr-42\\wpfapp1\\page\\studentformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0952C4C-D48D-4B96-97B8-D1AFA36CCF6B}|WpfApp1.csproj|solutionrelative:page\\studentformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0952C4C-D48D-4B96-97B8-D1AFA36CCF6B}|WpfApp1.csproj|c:\\users\\st310-02\\documents\\yalymovpetr_pr-42\\wpfapp1\\page\\studentformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B0952C4C-D48D-4B96-97B8-D1AFA36CCF6B}|WpfApp1.csproj|solutionrelative:page\\studentformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0952C4C-D48D-4B96-97B8-D1AFA36CCF6B}|WpfApp1.csproj|c:\\users\\st310-02\\documents\\yalymovpetr_pr-42\\wpfapp1\\page\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B0952C4C-D48D-4B96-97B8-D1AFA36CCF6B}|WpfApp1.csproj|solutionrelative:page\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0952C4C-D48D-4B96-97B8-D1AFA36CCF6B}|WpfApp1.csproj|c:\\users\\st310-02\\documents\\yalymovpetr_pr-42\\wpfapp1\\page\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0952C4C-D48D-4B96-97B8-D1AFA36CCF6B}|WpfApp1.csproj|solutionrelative:page\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0952C4C-D48D-4B96-97B8-D1AFA36CCF6B}|WpfApp1.csproj|C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WpfApp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B0952C4C-D48D-4B96-97B8-D1AFA36CCF6B}|WpfApp1.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0952C4C-D48D-4B96-97B8-D1AFA36CCF6B}|WpfApp1.csproj|c:\\users\\st310-02\\documents\\yalymovpetr_pr-42\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0952C4C-D48D-4B96-97B8-D1AFA36CCF6B}|WpfApp1.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0952C4C-D48D-4B96-97B8-D1AFA36CCF6B}|WpfApp1.csproj|c:\\users\\st310-02\\documents\\yalymovpetr_pr-42\\wpfapp1\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0952C4C-D48D-4B96-97B8-D1AFA36CCF6B}|WpfApp1.csproj|solutionrelative:studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0952C4C-D48D-4B96-97B8-D1AFA36CCF6B}|WpfApp1.csproj|C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WpfApp1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0952C4C-D48D-4B96-97B8-D1AFA36CCF6B}|WpfApp1.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0952C4C-D48D-4B96-97B8-D1AFA36CCF6B}|WpfApp1.csproj|c:\\users\\st310-02\\documents\\yalymovpetr_pr-42\\wpfapp1\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0952C4C-D48D-4B96-97B8-D1AFA36CCF6B}|WpfApp1.csproj|solutionrelative:observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WpfApp1\\Migrations\\20251113085610_InitialDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251113085610_InitialDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0952C4C-D48D-4B96-97B8-D1AFA36CCF6B}|WpfApp1.csproj|C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WpfApp1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0952C4C-D48D-4B96-97B8-D1AFA36CCF6B}|WpfApp1.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0952C4C-D48D-4B96-97B8-D1AFA36CCF6B}|WpfApp1.csproj|c:\\users\\st310-02\\documents\\yalymovpetr_pr-42\\wpfapp1\\service\\basedbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0952C4C-D48D-4B96-97B8-D1AFA36CCF6B}|WpfApp1.csproj|solutionrelative:service\\basedbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WpfApp1\\Page\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Page\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WpfApp1\\Page\\MainPage.xaml",
+              "RelativeToolTip": "Page\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-13T09:01:52.817Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WpfApp1\\Page\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Page\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WpfApp1\\Page\\MainPage.xaml.cs",
+              "RelativeToolTip": "Page\\MainPage.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwDsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:12:45.074Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentFormPage.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WpfApp1\\Page\\StudentFormPage.xaml",
+              "RelativeDocumentMoniker": "Page\\StudentFormPage.xaml",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WpfApp1\\Page\\StudentFormPage.xaml",
+              "RelativeToolTip": "Page\\StudentFormPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-13T09:04:02.931Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentFormPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WpfApp1\\Page\\StudentFormPage.xaml.cs",
+              "RelativeDocumentMoniker": "Page\\StudentFormPage.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WpfApp1\\Page\\StudentFormPage.xaml.cs",
+              "RelativeToolTip": "Page\\StudentFormPage.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwCoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:16:34.217Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WpfApp1\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WpfApp1\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:32:22.61Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ObservableObject.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WpfApp1\\ObservableObject.cs",
+              "RelativeDocumentMoniker": "ObservableObject.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WpfApp1\\ObservableObject.cs",
+              "RelativeToolTip": "ObservableObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:44:48.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WpfApp1\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentService.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WpfApp1\\StudentService.cs",
+              "RelativeToolTip": "StudentService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAUwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:10:43.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseDbService.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WpfApp1\\Service\\BaseDbService.cs",
+              "RelativeDocumentMoniker": "Service\\BaseDbService.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WpfApp1\\Service\\BaseDbService.cs",
+              "RelativeToolTip": "Service\\BaseDbService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:06:01.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20251113085610_InitialDB.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WpfApp1\\Migrations\\20251113085610_InitialDB.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251113085610_InitialDB.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WpfApp1\\Migrations\\20251113085610_InitialDB.cs",
+              "RelativeToolTip": "Migrations\\20251113085610_InitialDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:56:10.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WpfApp1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WpfApp1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:16:53.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-13T08:16:12.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:16:11.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
