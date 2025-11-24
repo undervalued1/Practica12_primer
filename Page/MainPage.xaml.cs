@@ -12,6 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using WpfApp1.Classes;
+using WpfApp1.Service;
 
 namespace WpfApp1.Page
 {

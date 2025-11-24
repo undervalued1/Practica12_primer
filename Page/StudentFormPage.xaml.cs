@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using WpfApp1.Classes;
 
 namespace WpfApp1.Page
 {
@@ -32,6 +33,8 @@ namespace WpfApp1.Page
                 isEdit = true;
             }
 
+            if (_student.Passport == null) 
+                _student.Passport = new();
             DataContext = _student;
         }
 

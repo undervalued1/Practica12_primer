@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+using WpfApp1.Classes;
+
 namespace WpfApp1
 {
-    public class Student:ObservableObject
+    public class Student : ObservableObject
     {
         private int _id;
         public int Id
@@ -38,5 +40,26 @@ namespace WpfApp1
             get => _birthday;
             set => SetProperty(ref _birthday, value);
         }
+        private Passport _passport;
+        public Passport Passport
+        {
+            get => _passport;
+            set => SetProperty(ref _passport, value);
+        }
+
+        private int _groupId;
+        public int GroupId
+        {
+            get => _groupId;
+            set => SetProperty(ref _groupId, value);
+        }
+        private Group _group;
+        public Group Group
+        {
+            get => _group;
+            set => SetProperty(ref _group, value);
+        }
     }
 }
+
+

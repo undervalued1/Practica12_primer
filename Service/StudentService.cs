@@ -1,10 +1,12 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+
+using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using WpfApp1.Classes;
 using WpfApp1.Data;
 using WpfApp1.Service;
 
@@ -26,6 +28,9 @@ namespace WpfApp1
                 LastName = student.LastName,
                 MiddleName = student.MiddleName,
                 Birthday = student.Birthday,
+                Passport = student.Passport,
+                GroupId = student.GroupId,
+                Group = student.Group,
             };
             _db.Add<Student>(_student);
             Commit();
@@ -34,7 +39,9 @@ namespace WpfApp1
         public int Commit() => _db.SaveChanges();
         public void GetAll()
         {
-            var students = _db.Students.ToList();
+            var students = _db.Students
+            .Include(s => s.Passport)
+            .ToList();
             Students.Clear();
             foreach (var student in students)
             {

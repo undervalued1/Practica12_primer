@@ -22,6 +22,48 @@ namespace WpfApp1.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("WpfApp1.Classes.Group", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Groups");
+                });
+
+            modelBuilder.Entity("WpfApp1.Classes.Passport", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("Number")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Series")
+                        .HasColumnType("int");
+
+                    b.Property<int>("StudentId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("StudentId")
+                        .IsUnique();
+
+                    b.ToTable("Passports");
+                });
+
             modelBuilder.Entity("WpfApp1.Student", b =>
                 {
                     b.Property<int>("Id")
@@ -37,6 +79,9 @@ namespace WpfApp1.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int>("GroupId")
+                        .HasColumnType("int");
+
                     b.Property<string>("LastName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -47,7 +92,42 @@ namespace WpfApp1.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("GroupId");
+
                     b.ToTable("Students");
+                });
+
+            modelBuilder.Entity("WpfApp1.Classes.Passport", b =>
+                {
+                    b.HasOne("WpfApp1.Student", "Student")
+                        .WithOne("Passport")
+                        .HasForeignKey("WpfApp1.Classes.Passport", "StudentId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Student");
+                });
+
+            modelBuilder.Entity("WpfApp1.Student", b =>
+                {
+                    b.HasOne("WpfApp1.Classes.Group", "Group")
+                        .WithMany("Students")
+                        .HasForeignKey("GroupId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Group");
+                });
+
+            modelBuilder.Entity("WpfApp1.Classes.Group", b =>
+                {
+                    b.Navigation("Students");
+                });
+
+            modelBuilder.Entity("WpfApp1.Student", b =>
+                {
+                    b.Navigation("Passport")
+                        .IsRequired();
                 });
 #pragma warning restore 612, 618
         }

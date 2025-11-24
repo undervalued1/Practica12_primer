@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YWe8G7MpU3QdxlYRSCEP1CsW+eyPPcOFms5eQQ0rLATbACScXMK6tWcL+3l0U6Jrgmjg2xfe0sTjGdYyuNT9oQ==",
+  "dgSpecHash": "Of9pj09EgJ87CiuAuvGHckoxqkQTOQgO9uoaCQdy49mOAdZe6v5aWVMrKwi5AHrixs0CK4JaRIfCY8lpgQdMaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WpfApp1\\WpfApp1.csproj",
+  "projectFilePath": "C:\\Users\\st310-02\\Documents\\yalimov\\Practica12_primer\\WpfApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\st310-02\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\st310-02\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

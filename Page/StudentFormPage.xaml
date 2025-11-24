@@ -28,9 +28,18 @@
                 <DatePicker SelectedDate="{Binding Birthday}"/>
             </StackPanel>
             <StackPanel>
+                <Label>Серия паспорта</Label>
+                <TextBox Text="{Binding Passport.Series}"/>
+            </StackPanel>
+            <StackPanel>
+                <Label>Номер паспорта</Label>
+                <TextBox Text="{Binding Passport.Number}"/>
+            </StackPanel>
+            <StackPanel>
                 <Button Click="save">Сохранить в БД</Button>
                 <Button Click="back">Назад</Button>
             </StackPanel>
+            
         </StackPanel>
     </Grid>
 </Page>
